@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+require 'friendly_id'
 require 'active_support'
 require 'active_support/concern'
 require_relative 'activeadmin_friendly_id_disabler/version'

@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    activeadmin_friendly_id_disabler (0.1.0)
+    activeadmin_friendly_id_disabler (0.1.2)
       activeadmin (>= 1.0.0)
       activesupport (>= 5.0.0)
       friendly_id (>= 5.3.0)

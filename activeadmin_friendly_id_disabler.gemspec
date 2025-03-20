@@ -4,7 +4,7 @@ require_relative 'lib/activeadmin_friendly_id_disabler/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'activeadmin_friendly_id_disabler'
-  spec.version       = '0.1.0'
+  spec.version       = '0.1.2'
   spec.authors       = ['Alexey Gordienko']
   spec.email         = ['alx@anadyr.org']
 
