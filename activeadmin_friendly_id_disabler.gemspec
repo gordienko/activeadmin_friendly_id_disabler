@@ -37,5 +37,5 @@ Gem::Specification.new do |spec|
 
   # Uncomment and modify the line below to test your code with dependencies that are still in development
   # spec.add_development_dependency "rspec", "~> 3.10"
-  spec.metadata['rubygems_mfa_required'] = 'true'
+  spec.metadata['rubygems_mfa_required'] = 'false'
 end
