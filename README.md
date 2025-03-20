@@ -60,6 +60,10 @@ end
 
 By default, the gem will automatically disable `FriendlyId` only for the duration of an action within ActiveAdmin controllers. If you need more granular control or need to disable `FriendlyId` in other parts of your application, consider implementing additional custom logic.
 
+## Background and Acknowledgments
+
+This gem was inspired by discussions around the need to selectively disable FriendlyId, as highlighted in [this GitHub issue](https://github.com/norman/friendly_id/issues/691). Special thanks to [Fabio Napoleoni](https://github.com/fabn) for contributing ideas that helped shape this solution.
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at [https://github.com/gordienko/activeadmin_friendly_id_disabler](https://github.com/gordienko/activeadmin_friendly_id_disabler).
