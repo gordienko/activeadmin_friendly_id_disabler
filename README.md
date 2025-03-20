@@ -62,7 +62,7 @@ By default, the gem will automatically disable `FriendlyId` only for the duratio
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at [your_project's GitHub link].
+Bug reports and pull requests are welcome on GitHub at [https://github.com/gordienko/activeadmin_friendly_id_disabler](https://github.com/gordienko/activeadmin_friendly_id_disabler).
 
 ## License
 
