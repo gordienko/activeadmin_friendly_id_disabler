@@ -32,7 +32,7 @@ This allows applications to use standard IDs in URLs instead of slugs, which can
    You need to configure your Rails application to use this module in ActiveAdmin controllers by creating an initializer. Create a file `config/initializers/activeadmin_friendly_id_disabler.rb`:
 
    ```ruby
-   Rails.application.config.after_initialize do
+   Rails.application.config.to_prepare do
      ActiveAdmin::BaseController.include(ActiveAdmin::FriendlyIdDisabler)
    end
 
